@@ -5,8 +5,10 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/nanduldas/DAS-TERMINAL)
 
 MATRIX Movie Inspired terminal, customizing the famous eDEX-UI. The eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface. This interface is fully customised by NANDUL DAS.
--Fully featured terminal emulator with tabs, colors, mouse events, and support for curses and curses-like applications.
--Real-time system (CPU, RAM, swap, processes) and network (GeoIP, active connections, transfer rates) monitoring.
+
+# Features!
+- Fully featured terminal emulator with tabs, colors, mouse events, and support for curses and curses-like applications.
+- Real-time system (CPU, RAM, swap, processes) and network (GeoIP, active connections, transfer rates) monitoring.
 - Full support for touch-enabled displays, including an on-screen keyboard.
 - Directory viewer that follows the CWD (current working directory) of the terminal.
 - Advanced customization using themes, on-screen keyboard layouts, CSS injections. See the wiki for more info.
