@@ -37,7 +37,7 @@ npm run install-windows
 npm start
 ```
 ### Thanks and credits
-[![edux|UI](https://raw.githubusercontent.com/GitSquared/edex-ui/master/media/logo.png)](https://github.com/GitSquared/edex-ui)
+[![edux|UI](https://raw.githubusercontent.com/GitSquared/edex-ui/master/media/logo.png)]()
 
 
 
