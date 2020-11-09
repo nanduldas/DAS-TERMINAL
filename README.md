@@ -38,6 +38,9 @@ git clone git@github.com:nanduldas/DAS-TERMINAL.git
 npm run install-windows
 npm start
 ```
+### Screenshot
+[![DAS-TERMINAL](https://github.com/nanduldas/DAS-TERMINAL/blob/main/media/screen.png)](https://github.com/nanduldas/DAS-TERMINAL/blob/main/media/screen.png)
+
 ### Thanks and credits
 [![edux|UI](https://raw.githubusercontent.com/GitSquared/edex-ui/master/media/logo.png)]()
 
